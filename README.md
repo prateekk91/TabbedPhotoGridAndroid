@@ -4,6 +4,6 @@ A Tabbed Photo Grid for Android using TabLayout and StaggeredGridLayoutManager.
 
 The Staggered Grid respects the photo aspect ratios. (See GIF for reference)
 
-![Tabbed Photo Grid](https://user-images.githubusercontent.com/5950933/50734141-fe1dd500-114e-11e9-90bd-75e7b7e7b59f.gif)
+![tabbed photo grid](https://user-images.githubusercontent.com/5950933/50734200-7a64e800-1150-11e9-9631-2b87f418aeaa.gif)
 
 Written in Kotlin.
