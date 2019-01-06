@@ -12,7 +12,7 @@ androidExtensions {
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.kotlin.workshop.tabbedphotogrid"
+        applicationId "com.kotlin.tabbedphotogrid"
         minSdkVersion 23
         targetSdkVersion 28
         versionCode 1
