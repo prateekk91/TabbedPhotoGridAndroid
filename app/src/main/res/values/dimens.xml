@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tab_layout_padding">72dp</dimen>
+    <dimen name="default_small_gap_size">4dp</dimen>
+    <dimen name="default_tiny_gap_size">2dp</dimen>
+    <dimen name="list_gutter_padding">10dp</dimen>
+</resources>
